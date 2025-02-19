@@ -7,7 +7,7 @@ const Programs = () => {
     {
       title: "Personal Training",
       description: "Tailored one-on-one sessions with elite coaches",
-      image: "/src/assets/images/programs/personal-training.jpg",
+      image: "/assets/images/programs/personal-training.jpg",
       features: [
         "Customized Workout Plans",
         "Nutrition Guidance",
@@ -17,7 +17,7 @@ const Programs = () => {
     {
       title: "Group Classes",
       description: "Dynamic group sessions for maximum motivation",
-      image: "/src/assets/images/programs/group-classes.jpg",
+      image: "/assets/images/programs/group-classes.jpg",
       features: [
         "HIIT Circuits",
         "Strength Training",
@@ -27,13 +27,13 @@ const Programs = () => {
     {
       title: "CrossFit",
       description: "High-intensity functional training programs",
-      image: "/src/assets/images/programs/crossfit.jpg",
+      image: "/assets/images/programs/crossfit.jpg",
       features: ["Olympic Lifting", "Conditioning", "Skill Development"],
     },
     {
       title: "Yoga & Mobility",
       description: "Mind-body connection and recovery",
-      image: "/src/assets/images/programs/yoga.jpg",
+      image: "/assets/images/programs/yoga.jpg",
       features: ["Power Yoga", "Mobility Flow", "Meditation"],
     },
   ];

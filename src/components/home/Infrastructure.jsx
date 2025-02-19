@@ -9,26 +9,26 @@ const Infrastructure = () => {
       title: "Training Zones",
       description:
         "Specialized areas for strength, cardio, and functional training",
-      image: "/src/assets/images/infrastructure/training-zone.jpg",
+      image: "/assets/images/infrastructure/training-zone.jpg",
       stats: "5000+ sq ft",
     },
     {
       title: "Premium Equipment",
       description: "Latest high-end fitness machines and free weights",
-      image: "/src/assets/images/infrastructure/equipment.jpg",
+      image: "/assets/images/infrastructure/equipment.jpg",
       stats: "100+ Machines",
     },
     {
       title: "Recovery Area",
       description: "Dedicated space for stretching and recovery",
-      image: "/src/assets/images/infrastructure/recovery.jpg",
+      image: "/assets/images/infrastructure/recovery.jpg",
       stats: "Full Suite",
     },
     {
       title: "Cardio Deck",
       description:
         "State-of-the-art cardio equipment with entertainment systems",
-      image: "/src/assets/images/infrastructure/cardio.jpg",
+      image: "/assets/images/infrastructure/cardio.jpg",
       stats: "30+ Stations",
     },
   ];

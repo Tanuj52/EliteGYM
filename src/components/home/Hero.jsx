@@ -13,7 +13,7 @@ const Hero = () => {
       {/* Background Image */}
       <div className="absolute inset-0">
         <img
-          src="/src/assets/images/hero/gym-hero.jpg"
+          src="/assets/images/hero/gym-hero.jpg"
           alt="Gym Interior"
           className="w-full h-full object-cover"
         />
